@@ -15,7 +15,9 @@ This addon automates the tedious process of manually placing dozens of cameras a
 - **Elevation control**: Set minimum/maximum angles to avoid problematic viewpoints
 - **Height levels**: Distribute cameras across multiple vertical layers
 
-<img width="326" height="805" alt="image" src="https://github.com/user-attachments/assets/9d739a94-8af8-4422-be06-64721467d5f7" />
+<img width="323" height="648" alt="image" src="https://github.com/user-attachments/assets/7f91cd9d-ee4d-4c64-9ed7-90a08793489c" />
+<img width="294" height="230" alt="image" src="https://github.com/user-attachments/assets/5f7773bf-6fe6-4da4-9c16-adc48e59e76c" />
+
 
 
 ### Batch Rendering
